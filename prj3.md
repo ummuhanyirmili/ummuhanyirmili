@@ -1,0 +1,14 @@
+Proje 3
+[7,5,1,8,3,6,0,9,4,2] dizisiniz Binary-Search-Tree aşamaları
+1.  Root 7’dir.
+2.  5, 7’den küçük olduğu için 7nin solunda bulunur.
+3.  1, 7'nin solunda ve 5’in solundadır.
+4.  8, 7’den büyük olduğu için 7'nin sağındadır.
+5.  3, 7'nin ve 5’in solunda ve 1’in sağında bulunur.
+6.  6, 7'nin solunda ve 5’in sağında bulunur.
+7.  0, rootun(7'nin),5’in ve 1’in solunda bulunur.
+8.  9, 7'nin ve 8’in sağında bulunur.
+9.  4, 7'nin ve 5’in solunda, 1’in ve 3’ün sağında bulunur.
+10. 2, 7'nin ve 3’ün solunda bulunur.
+
+https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/binary-search-tree-proje
